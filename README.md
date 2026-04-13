@@ -27,6 +27,10 @@ A solução utiliza o modelo **Whisper (OpenAI)** para reconhecimento de fala e 
 
 ---
 
+![code_resposta](https://github.com/tiagodalmeida87/tradutor_simultaneo_dio/blob/main/prints/pergutna%2Bresposta_caseIA.jpg)
+###### conversao_pergunta_em_resposta_text
+---
+
 ## ⚙️ Arquitetura da Solução
 
 ```mermaid
