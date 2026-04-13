@@ -17,17 +17,6 @@ A solução utiliza o modelo **Whisper (OpenAI)** para reconhecimento de fala e 
 
 ---
 
-## 🚀 Tecnologias Utilizadas
-
-- Python
-- JavaScript (Web API MediaDevices)
-- Whisper (OpenAI)
-- NVIDIA Nemotron 3 API
-- gTTS (Google Text-to-Speech)
-- Machine Learning / IA
-
----
-
 ## 🧠 Conceitos Aplicados
 
 - Reconhecimento Automático de Fala (ASR)
@@ -94,42 +83,26 @@ D --> E[🔊 Saída de Áudio]
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```bash
-📁 projeto-voz-ia
-│-- main.py
-│-- app.js
-│-- audio/
-│-- outputs/
-│-- requirements.txt
-│-- README.md
-```
-
----
-
 ## ▶️ Como Executar
 
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-pip install -r requirements.txt
-python main.py
-```
+Acesse e execute o projeto pelo [Google Colab](https://colab.research.google.com/drive/1tRJztEWqbb-t33paun8vo4kQd5tHMbqm?usp=sharing)
 
 ---
 
-## 🔐 Pré-requisitos
+## 🚀 Tecnologias Utilizadas
 
-- Python 3.8+
-- APIs configuradas
-- Navegador compatível
+- Python
+- JavaScript (Web API MediaDevices)
+- Whisper (OpenAI)
+- NVIDIA Nemotron 3 API
+- gTTS (Google Text-to-Speech)
+- Machine Learning / IA
 
 ---
 
 ## 🧑‍💻 Autor
 
-Tiago Almeida  
+Feito por [Tiago Almeida](https://github.com/tiagodalmeida87) 🧑‍💻
 Analista de Dados | BI | Machine Learning  
 
 ---
